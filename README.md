@@ -1,6 +1,6 @@
-# nuxt-test
+# vue-ssr
 
-> Nuxt.js project
+> It is a Nuxt.js project
 
  `Nuxt.js + Express + Sequelize + Mysql ` to Build Server
  

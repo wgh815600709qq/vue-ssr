@@ -2,9 +2,14 @@
 
 > Nuxt.js project
 
-## { nuxt + express + sequelize} + { vue + elementUI + axios} = vue-ssr
+ `Nuxt.js + Express + Sequelize + Mysql ` to Build Server
+ `Vue.js + Element-UI + Axios` to Build Web
+ That is `Vue-ssr`
+
 
 ```
+ The block is written in Chinese on more tips for Chinese Developer.
+
   vue-ssr 架构说明
   1、技术选型：
       后端方面采用 nuxt + express + sequelize + mysql 实现服务的搭建与接口的配对， 前端方面采用vue+elementUI
@@ -28,9 +33,6 @@
       index.js // 服务端入口
     static // 服务端静态资源（如favicon.io）
 ```
-
-
-
 
 ## Build Setup
 
